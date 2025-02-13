@@ -3,7 +3,7 @@ title: "Functions – Building Blocks of JavaScript"
 seoDescription: "Explore the differences between Function Declarations and Function Expressions in JavaScript. Learn about hoisting, scoping, and use cases."
 datePublished: Thu Feb 13 2025 07:24:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm730lbpq001v09l2c6lj9hz2
-slug: functions-building-blocks-of-javascript
+slug: functions-as-building-blocks-of-javascript
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739431365158/f80a965e-e5c5-44cd-97e9-b7e31549e3c1.jpeg
 tags: javascript, web-development, functional-programming, hiteshchoudharylco, chaicode
 
