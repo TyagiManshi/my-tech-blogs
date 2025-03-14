@@ -4,6 +4,8 @@
 # [Manshi's Blog Archive](https://thefullstacklens.hashnode.dev/)
 
 A collection of my blogs, documenting my journey of learning and sharing knowledge.
+<br>
+#### *Connect With Me -*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manshi--tyagi" target="_blank">
