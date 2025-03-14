@@ -1,3 +1,4 @@
+![logo](https://github.com/TyagiManshi/my-tech-blogs/blob/main/banner.jpg)
 
 <div align="center">
 
@@ -23,7 +24,7 @@ A collection of my blogs, documenting my journey of learning and sharing knowled
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://discord.com/users/manshi_80799" target="_blank">
+  <a href="https://discord.com/channels/@manshi_80799" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" alt="Discord" width="60"/>
   </a>
   &nbsp;
